@@ -12,6 +12,9 @@ redirect_from:
   <img src="https://tsinww.github.io/images/potato.png?raw=true" alt="Photo" style="width: 450px;"/> 
   Me with 2 potatoes
 </p>
+<p align="center">
+  Me with 2 potatoes
+</p>
 <div class="address">
           Me with 2 potatoes
 </div>
