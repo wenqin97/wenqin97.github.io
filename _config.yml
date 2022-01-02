@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qin Wen"
-  avatar           : "moon.jpg"
+  avatar           : "potato.png" #"moon.jpg"
   avatar bio       : "Me with two potatoes "
   bio              : "Applied and Computational Mathematics, Statistics"
   location         : "Location"
