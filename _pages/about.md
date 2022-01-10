@@ -21,7 +21,7 @@ redirect_from:
 * I received my Bachelor’s Degree at [Jilin University, Mathematics Department](https://math.jlu.edu.cn/English/Home.htm).
 
 # High-dimensional Statistics Blog
-We are holding a high-dimensional statistics reading group and this is our blog link for the group. We write about our understandings of the book $\textit{High-dimensional statistics a non-asymptotic viewpoint}$ by Wainwright, Martin J.
+We are holding a high-dimensional statistics reading group and this is our blog link for the group. We write about our understandings of the book *High-dimensional statistics a non-asymptotic viewpoint* by *Wainwright, Martin J*.
 
 # Academic Services
 * Conference Reviewer: AISTATS 2021
