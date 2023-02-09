@@ -16,7 +16,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am a first-year Statistics Ph.D. student at NYU Stern.
+* I am a first-year Statistics Ph.D. student at [New York University, Stern School of Business](https://www.stern.nyu.edu/).
 * I received my Master's degree from [University of Chicago, Computational and Applied Mathematics](https://cam.uchicago.edu/). 
 * My research interests lie in the general area of high-dimensional statistics, frequency domain time series and optimization. I am also interested in statistical and computational problems with geometric structures. 
 * I received my Bachelor’s degree from [Jilin University, Mathematics Department](https://math.jlu.edu.cn/English/Home.htm).
