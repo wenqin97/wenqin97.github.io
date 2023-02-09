@@ -83,8 +83,8 @@ author:
   name             : "Qin Wen"
   avatar           : "moon.jpg"
   #avatar bio       : "Me with two potatoes "
-  bio              : "Applied and Computational Mathematics, Statistics"
-  location         : "Location"
+  bio              : "Statistics Ph.D. Student @ NYU Stern" #"Statistics, Applied and Computational Mathematics"
+  location         : "New York University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tsinww"
   google_plus      :
   keybase          :
   instagram        :
