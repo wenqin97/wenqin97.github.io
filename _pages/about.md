@@ -19,7 +19,7 @@ redirect_from:
 * I am a first-year Statistics Ph.D. student at [New York University, Stern School of Business](https://www.stern.nyu.edu/).
 * I received my Master's degree from [University of Chicago, Computational and Applied Mathematics](https://cam.uchicago.edu/). 
 * My research interests lie in the general area of high-dimensional statistics, frequency domain time series and optimization. I am also interested in statistical and computational problems with geometric structures. 
-* I received my Bachelor’s degree from [Jilin University, Mathematics Department](https://math.jlu.edu.cn/English/Home.htm).
+* I received my Bachelor’s degree in Statistics from [Jilin University, Mathematics Department](https://math.jlu.edu.cn/English/Home.htm).
 
 <!--# High-dimensional Statistics Blog
 We are holding a high-dimensional statistics reading group and this is our blog link for the group. We write about our understandings of the book *High-dimensional statistics a non-asymptotic viewpoint* by *Wainwright, Martin J*.-->
